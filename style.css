@@ -1,0 +1,132 @@
+.header-section{
+    background: #264653;
+    height: auto;
+    
+}
+
+.btn-1{
+    background: #E76F51;
+    color: white;
+    border-radius: 5px;
+}
+
+.nav-div1{
+    margin-right: 200px;
+    
+}
+
+.nav-btn{
+    margin-left: 100px;
+}
+.header-display{
+    margin-top: 70px;
+}
+
+.left-div{
+    width: 55%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.display-h1-font{
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.purchase-btn{
+    width: 120px;
+    height: 50px;
+    background: #E76F51;
+    border-radius: 5px;
+}
+
+.fetured-bikes{
+    margin: 10px;
+    margin-left: 40%;
+}
+
+.main-part{
+    height:auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.feture-img-div{
+    margin: 20px;
+    margin-top: 60px;
+}
+.card-body-pic-div{
+    align-items: center;
+}
+.card-pic img{
+    width: 288px;
+    height: 243px;
+}
+.card-div img{
+    width: 337px;
+    height: 256px;
+}
+
+.card-div{
+    width: 337px;
+    height: 539px;
+}
+.card-body-div{
+    width: 337px;
+    height: 8px;
+    padding-bottom: 0%;
+}
+
+.read-more-btn{
+    color: tomato;
+    border: tomato solid 2px;
+    width: 160px;
+    height: 57px;
+}
+.clients-section{
+    margin-left: 900px;
+}
+.clients-div1{
+    margin-left: 160px;
+}
+.clients-div img{
+    width: 149px;
+    height: 149px;
+    margin: 15px;
+    margin-left: 35%;
+}
+.clients-card-div{
+    width: 362px;
+    height: 478px;
+    background: #FFFFFF
+    ;
+}
+.clients-div-paragraph{
+    width: 252px;
+    height: 70px;
+    margin-left: 28%;
+}
+.star-style{
+   color: rgb(235, 170, 50);
+}
+.last-star-style{
+    color: rgb(226, 196, 166);
+}    
+.clients-name{
+    text-align: center;
+    color: rgb(50, 50, 243);
+    font-weight: 700;
+}
+.qus-section{
+    margin-top: 50px;
+}
+.frequently-asked-questions-div img{
+width: 431px;
+height: 423px;
+margin-top: 30px;
+}
+.accordion-item-div{
+    height: 92px;
+   justify-content: center;
+}
